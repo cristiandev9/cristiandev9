@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristiandev9
 
 - 👀 I have knowledge in:
-      Javascript;
+      JAVASCRIPT;
       PHP;
       HTML;
       CSS;
