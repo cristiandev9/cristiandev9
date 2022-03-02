@@ -2,6 +2,8 @@
 
 - 👀 I have knowledge in:
       JAVASCRIPT;
+      REACT;
+      NEXTJS;
       PHP;
       HTML;
       CSS;
