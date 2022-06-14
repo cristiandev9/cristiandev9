@@ -13,8 +13,9 @@
   <img align="center" alt="Cristian-PHP"  height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
 </div>
+  
+<div style="display: inline_block"> 
   <br>
-<div> 
   <a href="https://instagram.com/cristian.andrisen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristian.andrisen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristian-andrisen-6497301a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
