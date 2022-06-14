@@ -1,6 +1,6 @@
 
   ## Hi, i'm Cristian!
-<div align="center" style="display:flex; justify-content:space-beetween;">
+<div align="center" style="display:flex; justify-content: space-between;">
   <a href="https://github.com/cristiandev9">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=cristiandev9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandev9&layout=compact&langs_count=7&theme=dracula"/>
